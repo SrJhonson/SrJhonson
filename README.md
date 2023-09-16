@@ -26,9 +26,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
+<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="[https://icons8.com.br/icon/ouWtcsgDBiwO/node-js](https://icons8.com.br/icon/NfbyHexzVEDk/reagir)"> < img src="[https://icons8.com.br/icon/ouWtcsgDBiwO/node-js](https://icons8.com.br/icon/NfbyHexzVEDk/reagir)" alt="react" width="40" height="40"/> </a> 
+<a href="https://icons8.com.br/icon/ouWtcsgDBiwO/node-js"> < img src="https://icons8.com.br/icon/ouWtcsgDBiwO/node-js" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
 <sup><kbd>***[Click here](https://github.com/SrJhonson?tab=repositories)***</kbd> *to view my projects.</sup>* <br>	
