@@ -7,12 +7,17 @@
 <div style="display: inline_block">
 
 <br/>  
-<p align="left"> 
-  🌎 Hello, my name's Jhonatan Dias. I'm a <strong>Web developer</strong></strong>.
+<h3 align="left"> 
+  🌎 Hello, my name's Jhonatan Dias. I'm a <strong>Web developer</strong></strong>. 🌎
+</h3>
+<p aling="left">
+  <h5>👨🏼‍🎓 I'm graduating in:</h5>
+ 💻 Information Systems from Uniube <br>
+ 📲 Multiplatform Software Development from Fatec Franca
 </p>
-
 <p align="left">
   
+  ⚠️ My personal website ➜ <kbd>***[Click here](https://jhonatandias.netlify.app)***</kbd><br>	
   💌 If you want to chat with me, send me a message.
 </p>
 
